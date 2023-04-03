@@ -17,7 +17,3 @@
 
 # Inherit from samsung sharkls-common
 include device/samsung/sharkls-common/BoardConfigCommon.mk
-
-# Init
-TARGET_INIT_VENDOR_LIB := libinit_j3x
-TARGET_RECOVERY_DEVICE_MODULES := libinit_j3x
